@@ -1,0 +1,10 @@
+{
+  "description": "Creates a professional 5-page WordPress website inspired by a healthcare UI, delivering a clean, user-friendly online presence for businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
